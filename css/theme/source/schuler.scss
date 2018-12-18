@@ -49,6 +49,7 @@ section.has-light-background {
 // ---------------------------------------------
 h2, h3  {
 	text-align: left;
+	color: #e27058;
 }
 
 p {
@@ -58,6 +59,10 @@ p {
 ul, li {
 	text-align: left;
 	//display: inherit;
+}
+
+strong, th {
+	color: #e27058;
 }
 
 .persona-grid {

@@ -273,13 +273,17 @@ body {
     background-color: #222; } }
 
 h2, h3 {
-  text-align: left; }
+  text-align: left;
+  color: #e27058; }
 
 p {
   text-align: left; }
 
 ul, li {
   text-align: left; }
+
+strong, th {
+  color: #e27058; }
 
 .persona-grid {
   display: grid;
